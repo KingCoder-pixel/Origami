@@ -1,0 +1,107 @@
+
+    body{
+        background-color: rgb(10, 167, 167);
+    }
+ 
+
+    img {
+        border: 5px solid blue;
+      }
+    .header{
+        background-image: url("images/cement.jpg");
+        background-color: blue;
+    }
+    h1{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        color: white; 
+    }
+    h2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: wheat;
+    }
+    h3{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: azure;
+    } 
+    h4{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center; 
+        color: whitesmoke;
+    }
+    .h1_2{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center; 
+      color: whitesmoke;
+    }
+    .followME{
+      background-image:url("follow.html");
+      background-color: white;
+      border-left: 560px solid currentColor;
+      border-right: 560px solid currentColor;
+      
+      
+    }
+ 
+    
+    .align{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+  .camelCSS{
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+ 
+  }  
+  .chameleonCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  }  
+  .cicadaCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 1px;
+    padding-right: 1px;
+  } 
+  .pandaCSS{
+   
+    bottom: 10px;
+    right: 10px;
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+  .pigeonCSS{
+   
+    bottom: 10px;
+    right: 10px;
+
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+
+ 
+
+  
+
